@@ -26,7 +26,7 @@ export default function Hero() {
           <p className="text-xs sm:text-sm font-semibold text-[#a01f11] uppercase tracking-widest">
             #Port Harcourt
           </p>
-          <p className="mt-1 text-sm sm:text-base font-medium bg-clip-text text-transparent bg-gradient-to-r from-[#ebaea7] to-[#a01f11]">
+          <p className="mt-1 text-sm sm:text-base font-medium bg-clip-text text-transparent bg-gradient-to-r from-[#f59e0b] to-[#a01f11]">
             This is Selfless Love
           </p>
         </div>
@@ -47,7 +47,7 @@ export default function Hero() {
         </span>
       </h1>
 
-      <p className="mt-3 text-sm sm:text-base font-light italic text-gray-700 max-w-md mx-auto">
+      <p className="mt-3 text-[12px] font-bold italic text-gray-700 max-w-md mx-auto">
         Faith Revival • Love in Action • Hope for Port Harcourt
       </p>
 
