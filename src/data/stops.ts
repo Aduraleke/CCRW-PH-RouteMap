@@ -145,7 +145,7 @@ export const stops: Stop[] = [
    {
     id: "stop28",
     name: "Choba",
-    path: ["Choba", "Rumuekini Rumuosi", "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+    path: ["Choba", "Rumuekini / Rumuosi", "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
   },
    {
     id: "stop29",
