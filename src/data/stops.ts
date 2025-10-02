@@ -73,25 +73,140 @@ export const stops: Stop[] = [
     path: ["Igbo-Etche Junction", "KICC Igbo-Etche", "Shoko choko junction", "Igwuruta roundabout", "Stadium"],
   },
    {
-    id: "stop11",
-    name: "Okru",
-    path: ["Okru", "JDP Roundabout", "Amadi Roundabout", "Mother cat", "Nwaja", "Market JTC", "AirForce", "Stadium"],
+    id: "stop14",
+    name: "Elele Alimini",
+    path: ["Elele Alimini", "Ndele", "Rumuoji", "Emoha", "Choba", "Airport Roundabout", "Stadium"],
   },
    {
-    id: "stop11",
-    name: "Okru",
-    path: ["Okru", "JDP Roundabout", "Amadi Roundabout", "Mother cat", "Nwaja", "Market JTC", "AirForce", "Stadium"],
+    id: "stop15",
+    name: "Mile 1 Education Bus Stop",
+    path: ["Mile 1 Education Bus Stop", "Emenike", "Ikoku", "UST Roundabout", "AGIP", "Winpey", "Rumuokoro", "Stadium"],
   },
    {
-    id: "stop11",
-    name: "Okru",
-    path: ["Okru", "JDP Roundabout", "Amadi Roundabout", "Mother cat", "Nwaja", "Market JTC", "AirForce", "Stadium"],
+    id: "stop16",
+    name: "Eleme Junction East-West Road",
+    path: ["Eleme Junction East-West Road", "Tank", "Rumuodara Junction", "Eliozu", "Guake", "Sars road", "Stadium"],
   },
    {
-    id: "stop11",
-    name: "Okru",
-    path: ["Okru", "JDP Roundabout", "Amadi Roundabout", "Mother cat", "Nwaja", "Market JTC", "AirForce", "Stadium"],
+    id: "stop17",
+    name: "Bori",
+    path: ["Bori", "Stadium"],
   },
-  
+   {
+    id: "stop18",
+    name: "Omoku",
+    path: ["Omoku", "Stadium"],
+  },
+   {
+    id: "stop19",
+    name: "Ahoada",
+    path: ["Ahoada", "Stadium"],
+  },
+   {
+    id: "stop20",
+    name: "Big Elele",
+    path: ["Big Elele", "Isiokpo", "Omagwa", "Stadium"],
+  },
+   {
+    id: "stop21",
+    name: "Omorelu",
+    path: ["Omorelu", "Ubima", "Omagwa", "Stadium"],
+  },
+   {
+    id: "stop22",
+    name: "Onine Junction",
+    path: ["Onine Junction", "Refinery Junction", "Eleme Junction", "Stadium"],
+  },
+   {
+    id: "stop23",
+    name: "Afam",
+    path: ["Afam", "Obigbo Express Junction", "TAB",  "New Link Road", "Stadium"],
+  },
+   {
+    id: "stop24",
+    name: "Obigbo Roundabout",
+    path: ["Obigbo Roundabout", "Obigbo Express Junction", "TAB",  "New Link Road", "Stadium"],
+  },
+   {
+    id: "stop25",
+    name: "Aluu",
+    path: ["Aluu", "Mbodo Rumuekini Boundary", "C4i", "Stadium"],
+  },
+   {
+    id: "stop26",
+    name: "Choba",
+    path: ["Choba", "Aluu", "Mbodo Rumuekini Boundary", "C4i", "Stadium"],
+  },
+   {
+    id: "stop27",
+    name: "Uniport",
+    path: ["Uniport", "Aluu", "Mbodo Rumuekini Boundary", "C4i", "Stadium"],
+  },
+   {
+    id: "stop28",
+    name: "Choba",
+    path: ["Choba", "Rumuekini Rumuosi", "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+   {
+    id: "stop29",
+    name: "Uniport",
+    path: ["Uniport", "Rumuekini Rumuosi", "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+
+   {
+    id: "stop30",
+    name: "Ozuoba",
+    path: ["Ozuoba", "Cornerstone Junction", "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+ {
+    id: "stop31",
+    name: "Ogbogoro",
+    path: ["Ogbogoro", "Iwofe", "Adagoerge", "Location",  "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+ {
+    id: "stop32",
+    name: "Adagoerge",
+    path: ["Adagoerge", "Location",  "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+ {
+    id: "stop33",
+    name: "UST",
+    path: ["UST", "Location",  "Obirikwere", "Rumuagholu junction", "Sars Road Junction", "Airport Road", "Stadium"],
+  },
+ {
+    id: "stop34",
+    name: "Rumuola",
+    path: ["Rumuola", "SBS",  "Rumuokwuta", "NTA", "Obikwere", "Stadium"],
+  },
+ {
+    id: "stop35",
+    name: "Rumuigbo Junction",
+    path: ["Rumuigbo Junction", "Rumuokoro",  "Rumuodomaya", "Rukpokwu", "Igrita", "Stadium"],
+  },
+ {
+    id: "stop36",
+    name: "Creek Road Hospital",
+    path: ["Creek Road Hospital", "Lagos Bus Stop",  "UTC", "Garrison", "GRA", "Airforce", "Stadium"],
+  },
+ {
+    id: "stop37",
+    name: "Borokiri",
+    path: ["Borokiri", "Lagos Bus Stop",  "UTC", "Garrison", "GRA", "Airforce", "Stadium"],
+  },
+ {
+    id: "stop38",
+    name: "Aggrey",
+    path: ["Aggrey", "Lagos Bus Stop",  "UTC", "Garrison", "GRA", "Airforce", "Stadium"],
+  },
+ {
+    id: "stop39",
+    name: "Harbour Road",
+    path: ["Harbour Road", "Lagos Bus Stop",  "UTC", "Garrison", "GRA", "Airforce", "Stadium"],
+  },
+ {
+    id: "stop40",
+    name: "Abonnema wharf",
+    path: ["Abonnema wharf", "UTC", "Garrison", "GRA", "Airforce", "Stadium"],
+  },
 
 ];
