@@ -12,13 +12,13 @@ export default function Hero() {
       <div className="flex flex-col items-center">
         <div className="relative mb-5">
 
-          <div className="w-28 h-28 flex items-center justify-center rounded-full bg-white shadow-lg">
+          <div className="w-28 h-28 flex items-center justify-center ">
             <Image
               src={logo}
               alt="Christ Compassion Revival World Logo"
-              width={90}
+              width={120}
               height={90}
-              className="rounded-full shadow-lg"
+              className="rounded-full shadow-lg bg-white"
             />
           </div>
         </div>
