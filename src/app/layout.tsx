@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Stadium Roadmap",
+  title: "CCRW Crusade Roadmap",
   description: "Find your route and get to the program with ease 🚍",
 };
 
