@@ -11,14 +11,16 @@ export default function Hero() {
       {/* Logo */}
       <div className="flex flex-col items-center">
         <div className="relative mb-5">
-          <div className="absolute w-28 h-28 rounded-full bg-[#f8d195] opacity-40 blur-2xl -z-10 animate-pulse-slow" />
-          <Image
-            src={logo}
-            alt="Christ Compassion Revival World Logo"
-            width={110}
-            height={110}
-            className="rounded-full shadow-lg"
-          />
+
+          <div className="w-28 h-28 flex items-center justify-center rounded-full bg-white shadow-lg">
+            <Image
+              src={logo}
+              alt="Christ Compassion Revival World Logo"
+              width={90}
+              height={90}
+              className="rounded-full shadow-lg"
+            />
+          </div>
         </div>
 
         {/* Location + Theme */}
