@@ -100,7 +100,7 @@ export default function LocationPage() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
-            className="mt-6 text-base sm:text-lg text-gray-700 max-w-xl leading-relaxed relative z-10 text-justify"
+            className="mt-6 text-sm sm:text-sm text-gray-700 max-w-xl leading-relaxed relative z-10 text-justify"
           >
             Begin your ride from
             <span className="ml-1 px-2 py-0.5 rounded-md bg-[#a01f11]/10 text-[#a01f11] font-semibold">
